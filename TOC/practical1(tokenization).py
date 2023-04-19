@@ -19,3 +19,8 @@ for i in a:
             x.append(i)
 
 print(x)
+
+#output
+'''
+Enter: print('Hello')
+'''
