@@ -58,3 +58,11 @@ while True:
         stringparts[1] = stringparts[1][0] + currstate + stringparts[1][1:]
 
     userstring = stringparts[0] + stringparts[1]    
+    
+#output
+'''
+Enter a string cont. states:ABCEDF
+start:A
+Final:F
+string cont var:01bxy
+'''
